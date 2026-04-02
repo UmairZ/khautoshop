@@ -75,9 +75,9 @@ export default function Reviews() {
                 />
               ))}
             </div>
-            <span className="text-3xl font-bold text-navy">5.0</span>
+            <span className="text-3xl font-bold text-navy">4.9</span>
             <span className="text-navy/50 text-sm">
-              ({reviews.length} reviews)
+              (341 reviews)
             </span>
           </div>
         </div>
